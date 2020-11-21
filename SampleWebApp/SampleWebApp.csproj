@@ -11,6 +11,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\OrchardCore.Commerce\OrchardCore.Commerce.csproj" />
+    <ProjectReference Include="..\src\OrchardCore.Themes\TheSampleStoreTheme\TheSampleStoreTheme.csproj" />
   </ItemGroup>
 
 </Project>

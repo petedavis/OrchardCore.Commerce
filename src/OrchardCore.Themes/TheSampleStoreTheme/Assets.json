@@ -1,0 +1,19 @@
+[
+  {
+    "generateSourceMaps": false,
+    "generateRTL": true,
+    "inputs": [
+      "Assets/scss/TheSampleStoreTheme.scss"
+    ],
+    "output": "wwwroot/css/TheSampleStoreTheme.css"
+  },
+  {
+    "generateSourceMaps": false,
+    "inputs": [
+      "node_modules/popper.js/dist/umd/popper.js",
+      "node_modules/bootstrap/dist/js/bootstrap.js",
+      "Assets/js/*.js"
+    ],
+    "output": "wwwroot/js/TheSampleStoreTheme.js"
+  }
+]
